@@ -1,0 +1,22 @@
+{
+  "wheel_id": 500,
+  "structure": "umbrella",
+  "slug": "webdesignperthaustralia-101",
+  "project": "web-design-perth-pros-and-cons-1a96f8a590206d61bbeecd34d12f15f4",
+  "parent_t1_ref": "webdesignperthaustralia-150",
+  "node_role": "feeder",
+  "money_target": "webdesignperthaustralia.com.au",
+  "primary_kw": "web design perth pros and cons",
+  "intended_url": "https://sitesau.github.io/webdesignperthaustralia-101/",
+  "tier": "T2",
+  "writeback_nonce": "3c18778ea28dc4dd",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/web-design-perth-checklist-ac5871375323765e851eda1efa8f0196e/",
+      "anchor": "web design perth checklist explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
